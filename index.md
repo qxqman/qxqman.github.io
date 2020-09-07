@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/qxqman/qxqman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qxqman/qxqman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<meta http-equiv="Coutent-Type" content="text/html; charset=utf-8"/>
+<head>
+<title>自我介绍</title>
+</head>
+<body background="ku.jpg">
+<br/>
+<br/>
+<p>
+<h2> <font color="white">周海洋</font></h2></p>
+<hr color="white"/>
+<br>
+<div id="1"><h4> <font color="white">年龄：21   身高： 176   体重：65 </font> </div>
+<div id="2"><h4><font color="white"> 政治面貌：团员  班级：物联网302 </font> </div>
+<h3 > <font color="white">爱好</font> </h3>
+<ul>
+  <li><font color="white">篮球</font></li>
+ <li><font color="white">打游戏</font></li>	
+  <li><font color="white">跑步....</font></li>
+  </font>
+</ul>
+<embed src="k.mp3"hidden="true"autoastart="true"loop="true"  >
+</body>
+</html>
